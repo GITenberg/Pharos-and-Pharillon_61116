@@ -1,0 +1,53 @@
+_repo: Pharos-and-Pharillon_61116
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Cavafy, Constantine
+    aliases:
+    - Kavafis, Konstantinos Petrou
+    - Cavafy, Constantine Peter
+    - Cavafy, C. P. (Constantine P.)
+    - Καβάφης, Κωνσταντίνος
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '51261'
+    url: http://www.gutenberg.org/2009/agents/51261
+    wikipedia: https://en.wikipedia.org/wiki/Constantine_P._Cavafy
+  translator:
+    agent_name: Valassopoulo, George
+    gutenberg_agent_id: '51262'
+    url: http://www.gutenberg.org/2009/agents/51262
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: ''
+gutenberg_issued: '2020-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61116'
+  lccn: '23017001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Alexandria (Egypt) -- History'
+- !lcsh 'Fay, Eliza, 1756-1816 -- Travel'
+- !lcsh 'Cavafy, Constantine, 1863-1933'
+- !lcsh 'English essays -- 20th century'
+- !lcsh 'Alexandria (Egypt) -- Description and travel'
+- GITenberg
+tableOfContents: 'Introduction -- Pharos: Pharos. The return from Siwa. Epiphany.
+  Philo''s little trip. Clement of Alexandria. St. Athanasius. Timothy the Cat & Timothy
+  Whitebonnet. The god abandons Antony -- Pharillon: Eliza in Egypt. Cotton from the
+  outside. The den. Between the Sun and the Moon. The solitary place. The poetry of
+  C. P. Cavafy -- Conclusion.'
+title: Pharos and Pharillon
+url: http://www.gutenberg.org/ebooks/61116
