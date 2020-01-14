@@ -1,5 +1,5 @@
 _repo: Pharos-and-Pharillon_61116
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Cavafy, Constantine
@@ -17,6 +17,9 @@ contributor:
     agent_name: Valassopoulo, George
     gutenberg_agent_id: '51262'
     url: http://www.gutenberg.org/2009/agents/51262
+covers:
+- cover_type: archival
+  image_path: 61116-h/images/cover.jpg
 creator:
   author:
     agent_name: Forster, E. M. (Edward Morgan)
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/975
     wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61116#Pharos-and-Pharillon
 gutenberg_issued: '2020-01-06'
 gutenberg_type: Text
 identifiers:
